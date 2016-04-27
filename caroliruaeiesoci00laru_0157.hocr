@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caroliruaeiesoci00laru_0157.png"; bbox 0 0 1571 2735; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 319 883 1165 935">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 319 883 1165 935">
+     <span class='ocr_line' id='line_1_1' title="bbox 319 883 1165 935; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 319 883 669 934; x_wconf 87' lang='lat' dir='ltr'>CAROLI</span> <span class='ocrx_word' id='word_1_2' title='bbox 723 887 966 934; x_wconf 84' lang='lat' dir='ltr'>RUAEI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1022 888 1067 933; x_wconf 81' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1121 887 1165 935; x_wconf 70' lang='lat' dir='ltr'>L</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 988 1336 1258">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 988 1336 1258">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 988 1336 1121; baseline 0.002 -9"><span class='ocrx_word' id='word_1_5' title='bbox 0 988 1336 1121; x_wconf 41' lang='lat' dir='ltr'>fflCARMINUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 335 1188 1077 1258; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 335 1188 821 1257; x_wconf 83' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_7' title='bbox 912 1189 1077 1258; x_wconf 89' lang='lat' dir='ltr'><strong>III.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 382 1352 1085 1415">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 382 1352 1085 1415">
+     <span class='ocr_line' id='line_1_4' title="bbox 382 1352 1085 1415; baseline 0.007 -17"><span class='ocrx_word' id='word_1_8' title='bbox 382 1352 1085 1415; x_wconf 57' lang='grc' dir='ltr'>εγΜΒοίισυε,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 8 0 116 2735">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 8 0 116 2735">
+     <span class='ocr_line' id='line_1_5' title="bbox 8 0 116 2735; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 8 0 116 2735; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
